@@ -30,7 +30,7 @@
     "glob": "^7.1.1",
     "gzip-size": "^3.0.0",
     "memory-fs": "^0.4.1",
-    "mocha": "^3.3.0",
+    "mocha": "^3.4.1",
     "pify": "^2.3.0",
     "pretty-bytes": "^4.0.2",
     "webpack": "^2.5.0"
